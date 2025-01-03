@@ -1,3 +1,7 @@
+#Code from https://github.com/akdurran/Final-Project
+#Adapted to function without the navigation system, and redistributed under the terms of the Apache 2.0 license.
+
+
 class_name Player extends RigidBody3D
 ## A physics based player character
 
